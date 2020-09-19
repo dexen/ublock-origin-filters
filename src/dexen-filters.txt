@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Homepage: https://dexen.github.io/ublock-origin-filters/
+! Title: dexen's filters
+! Expires: 3 hours
+! Version: HEAD
+
 ! 2020-09-07 https://www.happyhardcore.com
 ! animated "spectrum analyser", high CPU utilization
 www.happyhardcore.com###flashradiobigcanvas
