@@ -1,0 +1,7 @@
+! 2020-09-07 https://www.happyhardcore.com
+! animated "spectrum analyser", high CPU utilization
+www.happyhardcore.com###flashradiobigcanvas
+
+! 2020-09-10 happyhardcore.com
+! short video loop playing in background, high CPU utilization
+||www.happyhardcore.com/radio/player/videos/home2.mp4$domain=www.happyhardcore.com
