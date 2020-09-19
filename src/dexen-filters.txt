@@ -11,3 +11,11 @@ www.happyhardcore.com###flashradiobigcanvas
 ! 2020-09-10 happyhardcore.com
 ! short video loop playing in background, high CPU utilization
 ||www.happyhardcore.com/radio/player/videos/home2.mp4$domain=www.happyhardcore.com
+
+! 2020-09-19 Getting rid of the Google cookie consent popup
+! found on https://daniel-lange.com/archives/164-Getting-rid-of-the-Google-cookie-consent-popup.html
+google.*##.wwYr3.aID8W.bErdLd
+google.*##.aID8W.m114nf.t7xA6
+google.*##div[jsname][jsaction^="dg_close"]
+google.*##html:style(overflow: visible !important;)
+google.*##.widget-consent-fullscreen.widget-consent
